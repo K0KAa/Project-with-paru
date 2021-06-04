@@ -1,0 +1,15 @@
+* {
+    margin: 3px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+:root {
+    --mainBrown: #301f30;
+    --mainWhite: #fff;
+    --mainGold: #f9a602;
+    --mainGrey: #5f5e5e;
+    --mainBlack: #222;
+    --mainTransition: all 0.3s ease-in-out;
+    --mainSpacing: 0.3rem;
+}
